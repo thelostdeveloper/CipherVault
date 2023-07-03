@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CipherVault/static/css/main.64c78e75.css",
+    "main.js": "/CipherVault/static/js/main.a15c59ec.js",
+    "static/js/787.5c27a8eb.chunk.js": "/CipherVault/static/js/787.5c27a8eb.chunk.js",
+    "index.html": "/CipherVault/index.html",
+    "main.64c78e75.css.map": "/CipherVault/static/css/main.64c78e75.css.map",
+    "main.a15c59ec.js.map": "/CipherVault/static/js/main.a15c59ec.js.map",
+    "787.5c27a8eb.chunk.js.map": "/CipherVault/static/js/787.5c27a8eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c78e75.css",
+    "static/js/main.a15c59ec.js"
+  ]
+}
